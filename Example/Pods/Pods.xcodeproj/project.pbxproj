@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		051A816D6DD0CAE13496DDCFE0829167 /* UIImage+Diff.h in Headers */ = {isa = PBXBuildFile; fileRef = 85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		094973D2D2F1E3B2E772F93C8147C6B9 /* UIApplication+StrictKeyWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */; };
-		10F33E66752797F8F17B2D8E2DB88F43 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		1AB7934C16CE49DE196FFC7BE7278287 /* SwiftSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */; };
 		2F485B69F51E4F723A38410F31F08550 /* FBSnapshotTestController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		35DD05FD595A6FE7F5A0692D12E319DC /* UIImage+Diff.m in Sources */ = {isa = PBXBuildFile; fileRef = B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */; };
@@ -22,19 +21,16 @@
 		841FF232C33C7D49C58CEFDBE7EEB92B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */; };
 		91D0138ACFAD733E4061F12E450C336C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		9673CF780F48C8E4EC2A331717B1F67C /* FBSnapshotTestCase.h in Headers */ = {isa = PBXBuildFile; fileRef = E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		973CE3BAF197E8418B0CD52EDF6925B2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
-		A209DB960603F88669B5BE4F4488DEF7 /* Pods-khmerGraph_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3797FFAD07C2CBCB0D74181F83745FB1 /* Pods-khmerGraph_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A4F69F3477A935285620AC3031C5C848 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 052258A488A96C35531FAC73C4F42924 /* FBSnapshotTestController.m */; };
-		A7B7DD0E0C363015DE637C516379193D /* khmerGraph-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B82FBEAA70A05DA6773A215CF55FD04F /* khmerGraph-dummy.m */; };
-		AFB3904CF8773EB997D008B269CCC3A6 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A88E38A37164C7E16D34AC33C1F3BA /* ReplaceMe.swift */; };
+		B242CE0052D348AE74D5DCA480B573A0 /* Pods-khmerGraph_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4049385FA24B36FC7277F94E6741CFD1 /* Pods-khmerGraph_Example-dummy.m */; };
 		B27DFD6025D94758785918F1D6F6C060 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A27810809BAD71E4022600B21251449F /* QuartzCore.framework */; };
+		B756C346C3F59FA78901FA64537AEB7E /* Pods-khmerGraph_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3797FFAD07C2CBCB0D74181F83745FB1 /* Pods-khmerGraph_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B758FB09FE2C06C1B8E36A71A9D76D41 /* FBSnapshotTestCase-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 73D037B3C804B9E1BB70538E342E5104 /* FBSnapshotTestCase-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BC952FC04FC963C1294DCD619C9B6B3B /* UIApplication+StrictKeyWindow.h in Headers */ = {isa = PBXBuildFile; fileRef = B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		BE14F2198CDB0DAD98A567981D21C7A1 /* FBSnapshotTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 39577E2B806B8B2D019998DE60728F63 /* FBSnapshotTestCase.m */; };
 		BFCE460CC33E8872B7156D4166340178 /* FBSnapshotTestCasePlatform.h in Headers */ = {isa = PBXBuildFile; fileRef = 7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C0F700687CDC060B0B42B406D1D18621 /* khmerGraph-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 224161EC7E25CA1E9476A2A2C1E3CE9D /* khmerGraph-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C82F3F51B4C6441C87EE1A15E033F731 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
 		CAFA5E486BCE117A7D8C0FBF9DA6666B /* UIImage+Compare.h in Headers */ = {isa = PBXBuildFile; fileRef = 432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		D08B1FD574CE652C900BD67E1BB41B00 /* Pods-khmerGraph_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4049385FA24B36FC7277F94E6741CFD1 /* Pods-khmerGraph_Example-dummy.m */; };
 		D26E4D98AD4F1A48D31B6AF285A3C006 /* Pods-khmerGraph_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 07FCD22135B016E245171E5A08B63CC7 /* Pods-khmerGraph_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DB7A106243AC974FC7EBEB00B506C786 /* FBSnapshotTestCasePlatform.m in Sources */ = {isa = PBXBuildFile; fileRef = 58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */; };
 		E280A98B471841A0B6785E715A5F8CE2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */; };
@@ -48,13 +44,6 @@
 			remoteGlobalIDString = 34CD2E3428AB802BACA62286FF5074B1;
 			remoteInfo = FBSnapshotTestCase;
 		};
-		633A4230321FE4C93F41F0359FDBB516 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E6BACB9506C96E1BDFA0B539CB3C58DA;
-			remoteInfo = khmerGraph;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -64,9 +53,8 @@
 		0B161931541BFE46DFEA2092EDDDA815 /* UIImage+Snapshot.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Snapshot.h"; path = "FBSnapshotTestCase/Categories/UIImage+Snapshot.h"; sourceTree = "<group>"; };
 		1374B79237CAC07693E99442FBED1F15 /* FBSnapshotTestController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestController.h; path = FBSnapshotTestCase/FBSnapshotTestController.h; sourceTree = "<group>"; };
 		18CEC22B3F348C7A940AB6CF05D52AB5 /* Pods-khmerGraph_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-khmerGraph_Example-frameworks.sh"; sourceTree = "<group>"; };
+		1C17EB04846CCBDF75B8C142E26E54E4 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F793E91BC8714ED2A7B73C5642AEF73 /* Pods-khmerGraph_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-khmerGraph_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		216214E0F07B0BCD95A079879249966D /* Pods_khmerGraph_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_khmerGraph_Example.framework; path = "Pods-khmerGraph_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		224161EC7E25CA1E9476A2A2C1E3CE9D /* khmerGraph-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "khmerGraph-umbrella.h"; sourceTree = "<group>"; };
 		267F0BD94D582CAB159BAE52D49028AC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2EECE81A9AEC1ED1057A9C3C88DBCEBE /* UIApplication+StrictKeyWindow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIApplication+StrictKeyWindow.m"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.m"; sourceTree = "<group>"; };
 		3797FFAD07C2CBCB0D74181F83745FB1 /* Pods-khmerGraph_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-khmerGraph_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -79,41 +67,34 @@
 		432938111B6FF0189EFFEDF2F845B308 /* UIImage+Compare.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Compare.h"; path = "FBSnapshotTestCase/Categories/UIImage+Compare.h"; sourceTree = "<group>"; };
 		52C18C0EB1FED5EB5CE3B0E768AC510F /* FBSnapshotTestCase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FBSnapshotTestCase-dummy.m"; sourceTree = "<group>"; };
 		58A2557E7CE20AACCD1B28B1CD1F920D /* FBSnapshotTestCasePlatform.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FBSnapshotTestCasePlatform.m; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.m; sourceTree = "<group>"; };
-		5F79054E019338E1C0BE0957DA666F5A /* khmerGraph.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = khmerGraph.modulemap; sourceTree = "<group>"; };
+		6044271BAC85F737E8C45390AED2CC07 /* Pods_khmerGraph_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_khmerGraph_Tests.framework; path = "Pods-khmerGraph_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		683B4916630CDA08F09645164B115856 /* Pods-khmerGraph_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-khmerGraph_Example.modulemap"; sourceTree = "<group>"; };
 		6A773A1908566952E021E0A586B25BBE /* Pods-khmerGraph_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-khmerGraph_Tests-dummy.m"; sourceTree = "<group>"; };
 		6C8FE5321C592A9D5506A2A43662C34C /* Pods-khmerGraph_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-khmerGraph_Example.release.xcconfig"; sourceTree = "<group>"; };
-		6E00907AE6BBBC968E7090195337A728 /* khmerGraph.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = khmerGraph.xcconfig; sourceTree = "<group>"; };
 		6E66B4218824CF8160D93713DDBEEA82 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73D037B3C804B9E1BB70538E342E5104 /* FBSnapshotTestCase-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-umbrella.h"; sourceTree = "<group>"; };
 		7A0DB6133248932E05F15737227A72CD /* Pods-khmerGraph_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-khmerGraph_Tests.modulemap"; sourceTree = "<group>"; };
 		7E3DB4D092B985E76E227F7F313C6981 /* FBSnapshotTestCasePlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCasePlatform.h; path = FBSnapshotTestCase/FBSnapshotTestCasePlatform.h; sourceTree = "<group>"; };
 		823558E8AC8EB39D028DB5FBBEA227A3 /* FBSnapshotTestCase.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FBSnapshotTestCase.modulemap; sourceTree = "<group>"; };
+		84A60B221BE7C42E3F095AD4A73968D9 /* Pods_khmerGraph_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_khmerGraph_Example.framework; path = "Pods-khmerGraph_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85E250EF19C5B5671AEC10BEB508D087 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
-		8A28F6556923970227EA33D033EC6356 /* FBSnapshotTestCase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FBSnapshotTestCase.framework; path = FBSnapshotTestCase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E5FE4AA31533F13C3309A3B57A3E77B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9450629768EC5D2DB748C94BD8BF5F3E /* Pods_khmerGraph_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_khmerGraph_Tests.framework; path = "Pods-khmerGraph_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9917994321AA99B4EBFF1AAD5FEABC3B /* Pods-khmerGraph_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-khmerGraph_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		99A88E38A37164C7E16D34AC33C1F3BA /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		A27810809BAD71E4022600B21251449F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
 		AA323C90663942983643D7A4D1F697C8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		B43D54ADDC156556221C44C64523A1EE /* Pods-khmerGraph_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-khmerGraph_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		B82FBEAA70A05DA6773A215CF55FD04F /* khmerGraph-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "khmerGraph-dummy.m"; sourceTree = "<group>"; };
 		B9109B8B333B5A1A3E92EFC09EDC10AC /* UIApplication+StrictKeyWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIApplication+StrictKeyWindow.h"; path = "FBSnapshotTestCase/Categories/UIApplication+StrictKeyWindow.h"; sourceTree = "<group>"; };
-		B97E7E7DDD4593405CAB83BF146E724B /* khmerGraph.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = khmerGraph.framework; path = khmerGraph.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9CEF7D6C5E08AB80E58DABC75D882BC /* UIImage+Diff.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+Diff.m"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.m"; sourceTree = "<group>"; };
 		C6E88A450A84E3957158B3B3459740AA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		C7CD75C1AA72327F75330ABC3A97752E /* Pods-khmerGraph_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-khmerGraph_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		CA9E19E7CEAABF25400ADFFB09D48E9C /* Pods-khmerGraph_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-khmerGraph_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CC12BCFA3FC0B8C307F5B38C673EDD12 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
-		D25FF06C684950CF267711892431F563 /* khmerGraph-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "khmerGraph-prefix.pch"; sourceTree = "<group>"; };
 		D389AC9F7C3863DA9734259AE54C1AA1 /* Pods-khmerGraph_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-khmerGraph_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		D5D82DB730E78E0C38AE7CFDBF1F4EBC /* Pods-khmerGraph_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-khmerGraph_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		D97545C39C4A5EE2631DD9FFECE76A40 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		DADAF30F2D84FDAAD2ADD2D50C1F40DF /* FBSnapshotTestCase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FBSnapshotTestCase.xcconfig; sourceTree = "<group>"; };
 		E37899BD4B349060AA147E2A3721D3A2 /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
-		E8CCEE60EB02501B4D2BFABD639CBCCE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F44B10E4610405D9372BF8E9B4A79BEF /* Pods-khmerGraph_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-khmerGraph_Example-resources.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -129,19 +110,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2A75A974F340ABE649399F4E9BF9DEB5 /* Frameworks */ = {
+		440583F5AE7142818A042CD7AD9B836B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				973CE3BAF197E8418B0CD52EDF6925B2 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		77F5DA51CF04742E0568F48C05028351 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				10F33E66752797F8F17B2D8E2DB88F43 /* Foundation.framework in Frameworks */,
+				C82F3F51B4C6441C87EE1A15E033F731 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,15 +151,6 @@
 			path = "../Target Support Files/FBSnapshotTestCase";
 			sourceTree = "<group>";
 		};
-		207B02EB83D7130676976FB5A2CC834F /* khmerGraph */ = {
-			isa = PBXGroup;
-			children = (
-				68FC48EC1553DD5DD0A684D1B78B32B1 /* Classes */,
-			);
-			name = khmerGraph;
-			path = khmerGraph;
-			sourceTree = "<group>";
-		};
 		2287B5EBEAA3C332F8DB9A1E61F5B097 /* FBSnapshotTestCase */ = {
 			isa = PBXGroup;
 			children = (
@@ -216,23 +180,22 @@
 			path = "Target Support Files/Pods-khmerGraph_Tests";
 			sourceTree = "<group>";
 		};
-		68FC48EC1553DD5DD0A684D1B78B32B1 /* Classes */ = {
+		3639259F2293894B5E5EB74F5F27CB48 /* khmerGraph */ = {
 			isa = PBXGroup;
 			children = (
-				99A88E38A37164C7E16D34AC33C1F3BA /* ReplaceMe.swift */,
 			);
-			name = Classes;
-			path = Classes;
+			name = khmerGraph;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				A6C4881249EFF701F9362B1079A3992D /* Development Pods */,
+				A92B8B67E3B26565A37D77EC7FE2B426 /* Development Pods */,
 				14B8B9B15ECBE87983FF987239AB2D7B /* Frameworks */,
 				FBD2D672921284E66F309CA3462F84D6 /* Pods */,
-				BEBA98BA3FE0082D403E59C1C122299A /* Products */,
+				E966F5ADE1E1321BA6CDD0582D9FF28A /* Products */,
 				FF680A1905BCEA459C6036F2C9391FF5 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -274,45 +237,20 @@
 			path = "Target Support Files/Pods-khmerGraph_Example";
 			sourceTree = "<group>";
 		};
-		A2BF1A7C51266E464A71CF6A1ADC56B2 /* khmerGraph */ = {
+		A92B8B67E3B26565A37D77EC7FE2B426 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				207B02EB83D7130676976FB5A2CC834F /* khmerGraph */,
-				B552FD3BDE58422012127DD60946D838 /* Support Files */,
-			);
-			name = khmerGraph;
-			path = ../..;
-			sourceTree = "<group>";
-		};
-		A6C4881249EFF701F9362B1079A3992D /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				A2BF1A7C51266E464A71CF6A1ADC56B2 /* khmerGraph */,
+				3639259F2293894B5E5EB74F5F27CB48 /* khmerGraph */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		B552FD3BDE58422012127DD60946D838 /* Support Files */ = {
+		E966F5ADE1E1321BA6CDD0582D9FF28A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E8CCEE60EB02501B4D2BFABD639CBCCE /* Info.plist */,
-				5F79054E019338E1C0BE0957DA666F5A /* khmerGraph.modulemap */,
-				6E00907AE6BBBC968E7090195337A728 /* khmerGraph.xcconfig */,
-				B82FBEAA70A05DA6773A215CF55FD04F /* khmerGraph-dummy.m */,
-				D25FF06C684950CF267711892431F563 /* khmerGraph-prefix.pch */,
-				224161EC7E25CA1E9476A2A2C1E3CE9D /* khmerGraph-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/khmerGraph";
-			sourceTree = "<group>";
-		};
-		BEBA98BA3FE0082D403E59C1C122299A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				8A28F6556923970227EA33D033EC6356 /* FBSnapshotTestCase.framework */,
-				B97E7E7DDD4593405CAB83BF146E724B /* khmerGraph.framework */,
-				216214E0F07B0BCD95A079879249966D /* Pods_khmerGraph_Example.framework */,
-				9450629768EC5D2DB748C94BD8BF5F3E /* Pods_khmerGraph_Tests.framework */,
+				1C17EB04846CCBDF75B8C142E26E54E4 /* FBSnapshotTestCase.framework */,
+				84A60B221BE7C42E3F095AD4A73968D9 /* Pods_khmerGraph_Example.framework */,
+				6044271BAC85F737E8C45390AED2CC07 /* Pods_khmerGraph_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -358,11 +296,11 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		8C20FBB6BB04B06633577979EBD45BE0 /* Headers */ = {
+		8D31577313C248D500CBA11FA982EE05 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C0F700687CDC060B0B42B406D1D18621 /* khmerGraph-umbrella.h in Headers */,
+				B756C346C3F59FA78901FA64537AEB7E /* Pods-khmerGraph_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -389,17 +327,26 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FA4E16A239E74FDC3D7E0E751755B458 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A209DB960603F88669B5BE4F4488DEF7 /* Pods-khmerGraph_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		1261EABD647B5BE7EAA31CEDF20B9322 /* Pods-khmerGraph_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0126D029D38132DE3C2981F5285C4902 /* Build configuration list for PBXNativeTarget "Pods-khmerGraph_Example" */;
+			buildPhases = (
+				19EF36B7603BB502018D2C65AF3B2E9E /* Sources */,
+				440583F5AE7142818A042CD7AD9B836B /* Frameworks */,
+				8D31577313C248D500CBA11FA982EE05 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-khmerGraph_Example";
+			productName = "Pods-khmerGraph_Example";
+			productReference = 84A60B221BE7C42E3F095AD4A73968D9 /* Pods_khmerGraph_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		300B14B701ECF3F0B9CA707EF034EAE4 /* Pods-khmerGraph_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D0CE6E847991E9193263C1D996FE20DE /* Build configuration list for PBXNativeTarget "Pods-khmerGraph_Tests" */;
@@ -415,7 +362,7 @@
 			);
 			name = "Pods-khmerGraph_Tests";
 			productName = "Pods-khmerGraph_Tests";
-			productReference = 9450629768EC5D2DB748C94BD8BF5F3E /* Pods_khmerGraph_Tests.framework */;
+			productReference = 6044271BAC85F737E8C45390AED2CC07 /* Pods_khmerGraph_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */ = {
@@ -432,42 +379,7 @@
 			);
 			name = FBSnapshotTestCase;
 			productName = FBSnapshotTestCase;
-			productReference = 8A28F6556923970227EA33D033EC6356 /* FBSnapshotTestCase.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		70F001A13236692700781EE9C793E949 /* Pods-khmerGraph_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 96F977D1ED276EA79F8F119F3535B61B /* Build configuration list for PBXNativeTarget "Pods-khmerGraph_Example" */;
-			buildPhases = (
-				1AC26DC1B5130968094692FD516050B0 /* Sources */,
-				77F5DA51CF04742E0568F48C05028351 /* Frameworks */,
-				FA4E16A239E74FDC3D7E0E751755B458 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				CF4802AE38B05CFD63F34C74E33C5372 /* PBXTargetDependency */,
-			);
-			name = "Pods-khmerGraph_Example";
-			productName = "Pods-khmerGraph_Example";
-			productReference = 216214E0F07B0BCD95A079879249966D /* Pods_khmerGraph_Example.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		E6BACB9506C96E1BDFA0B539CB3C58DA /* khmerGraph */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 451211564570F4EE5E7F9BDEB97C447A /* Build configuration list for PBXNativeTarget "khmerGraph" */;
-			buildPhases = (
-				89F07D3C1AC716249A8CEEE960212F1D /* Sources */,
-				2A75A974F340ABE649399F4E9BF9DEB5 /* Frameworks */,
-				8C20FBB6BB04B06633577979EBD45BE0 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = khmerGraph;
-			productName = khmerGraph;
-			productReference = B97E7E7DDD4593405CAB83BF146E724B /* khmerGraph.framework */;
+			productReference = 1C17EB04846CCBDF75B8C142E26E54E4 /* FBSnapshotTestCase.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -487,24 +399,23 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = BEBA98BA3FE0082D403E59C1C122299A /* Products */;
+			productRefGroup = E966F5ADE1E1321BA6CDD0582D9FF28A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */,
-				E6BACB9506C96E1BDFA0B539CB3C58DA /* khmerGraph */,
-				70F001A13236692700781EE9C793E949 /* Pods-khmerGraph_Example */,
+				1261EABD647B5BE7EAA31CEDF20B9322 /* Pods-khmerGraph_Example */,
 				300B14B701ECF3F0B9CA707EF034EAE4 /* Pods-khmerGraph_Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1AC26DC1B5130968094692FD516050B0 /* Sources */ = {
+		19EF36B7603BB502018D2C65AF3B2E9E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D08B1FD574CE652C900BD67E1BB41B00 /* Pods-khmerGraph_Example-dummy.m in Sources */,
+				B242CE0052D348AE74D5DCA480B573A0 /* Pods-khmerGraph_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -513,15 +424,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				80C18246475A07BFFB0A38260F974470 /* Pods-khmerGraph_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		89F07D3C1AC716249A8CEEE960212F1D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A7B7DD0E0C363015DE637C516379193D /* khmerGraph-dummy.m in Sources */,
-				AFB3904CF8773EB997D008B269CCC3A6 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -550,54 +452,9 @@
 			target = 34CD2E3428AB802BACA62286FF5074B1 /* FBSnapshotTestCase */;
 			targetProxy = 02433AFCEE25BFCB5A12D5F5A427BFE1 /* PBXContainerItemProxy */;
 		};
-		CF4802AE38B05CFD63F34C74E33C5372 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = khmerGraph;
-			target = E6BACB9506C96E1BDFA0B539CB3C58DA /* khmerGraph */;
-			targetProxy = 633A4230321FE4C93F41F0359FDBB516 /* PBXContainerItemProxy */;
-		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1E30F6CF51058C0087E18BEDA7B308D4 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C7CD75C1AA72327F75330ABC3A97752E /* Pods-khmerGraph_Example.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-khmerGraph_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-khmerGraph_Example/Pods-khmerGraph_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_khmerGraph_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		345CC476DF4A7516DBD2220CF5035FF3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -646,6 +503,42 @@
 			};
 			name = Debug;
 		};
+		42DC2F32590A0368CD6E28D012EE6872 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6C8FE5321C592A9D5506A2A43662C34C /* Pods-khmerGraph_Example.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-khmerGraph_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-khmerGraph_Example/Pods-khmerGraph_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_khmerGraph_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		53BD703EB0BECABC5EDFD8F5ED766A4C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CA9E19E7CEAABF25400ADFFB09D48E9C /* Pods-khmerGraph_Tests.debug.xcconfig */;
@@ -684,44 +577,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		678220743987428DCFB1436B222C61F1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6C8FE5321C592A9D5506A2A43662C34C /* Pods-khmerGraph_Example.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-khmerGraph_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-khmerGraph_Example/Pods-khmerGraph_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_khmerGraph_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -767,40 +622,6 @@
 			};
 			name = Release;
 		};
-		78CE41BBE30DFF35B9837DE13179B8B7 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E00907AE6BBBC968E7090195337A728 /* khmerGraph.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/khmerGraph/khmerGraph-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/khmerGraph/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/khmerGraph/khmerGraph.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = khmerGraph;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		92B90BBEE29604513187DACFBA2B503A /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1F793E91BC8714ED2A7B73C5642AEF73 /* Pods-khmerGraph_Tests.release.xcconfig */;
@@ -839,41 +660,6 @@
 			};
 			name = Release;
 		};
-		9BD1BCB19246272B4A1AA5C7C750A69A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E00907AE6BBBC968E7090195337A728 /* khmerGraph.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/khmerGraph/khmerGraph-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/khmerGraph/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/khmerGraph/khmerGraph.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = khmerGraph;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		BD5CB3691FE92843589F6AF6BCC8DFD5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = DADAF30F2D84FDAAD2ADD2D50C1F40DF /* FBSnapshotTestCase.xcconfig */;
@@ -903,6 +689,42 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		BE6CDEAEA26779ABD7C0499618A5B56B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7CD75C1AA72327F75330ABC3A97752E /* Pods-khmerGraph_Example.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-khmerGraph_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-khmerGraph_Example/Pods-khmerGraph_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_khmerGraph_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -946,29 +768,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0126D029D38132DE3C2981F5285C4902 /* Build configuration list for PBXNativeTarget "Pods-khmerGraph_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE6CDEAEA26779ABD7C0499618A5B56B /* Debug */,
+				42DC2F32590A0368CD6E28D012EE6872 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				345CC476DF4A7516DBD2220CF5035FF3 /* Debug */,
 				717E77604BFBB04BEAF56608A1CB2EDE /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		451211564570F4EE5E7F9BDEB97C447A /* Build configuration list for PBXNativeTarget "khmerGraph" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				9BD1BCB19246272B4A1AA5C7C750A69A /* Debug */,
-				78CE41BBE30DFF35B9837DE13179B8B7 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		96F977D1ED276EA79F8F119F3535B61B /* Build configuration list for PBXNativeTarget "Pods-khmerGraph_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				1E30F6CF51058C0087E18BEDA7B308D4 /* Debug */,
-				678220743987428DCFB1436B222C61F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

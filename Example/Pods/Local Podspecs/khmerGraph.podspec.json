@@ -1,15 +1,15 @@
 {
   "name": "khmerGraph",
   "version": "0.1.0",
-  "summary": "A short description of khmerGraph.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "customize graph with scrollView iOS app.",
+  "description": "customize graph with scrollView iOS app. install libary into project easy to use graph and customize with code.",
   "homepage": "https://github.com/meanreaksmey/khmerGraph",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "meanreaksmey": "meanreaksmey@2ntkh.com"
+    "meanreaksmey": "meanreaksmey@gmail.com"
   },
   "source": {
     "git": "https://github.com/meanreaksmey/khmerGraph.git",
@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "khmerGraph/Classes/**/*"
+  "source_files": "khmerGraph/Classes/**/*",
+  "frameworks": "UIKit"
 }
