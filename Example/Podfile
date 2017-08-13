@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'khmerGraph_Example' do
+  pod 'khmerGraph', :path => '../'
+
+  target 'khmerGraph_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
