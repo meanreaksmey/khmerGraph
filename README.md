@@ -22,7 +22,7 @@ pod "khmerGraph"
 
 ## Author
 
-meanreaksmey, meanreaksmey@2ntkh.com
+meanreaksmey, meanreaksmey@gmail.com
 
 ## License
 
