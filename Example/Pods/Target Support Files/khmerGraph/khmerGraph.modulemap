@@ -1,0 +1,6 @@
+framework module khmerGraph {
+  umbrella header "khmerGraph-umbrella.h"
+
+  export *
+  module * { export * }
+}

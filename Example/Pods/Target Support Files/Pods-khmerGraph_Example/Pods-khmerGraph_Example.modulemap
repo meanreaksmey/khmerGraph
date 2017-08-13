@@ -1,0 +1,6 @@
+framework module Pods_khmerGraph_Example {
+  umbrella header "Pods-khmerGraph_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
